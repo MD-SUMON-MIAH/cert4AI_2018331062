@@ -1,5 +1,5 @@
-Registration Number: **2018331999**
-Name: **XYZ**
+Registration Number: **2018331062**
+Name: **MD. SUMON MIAH**
 
 |   SL | Course Name                   | Platform | Completion Date | Certificate Link                                                                                  |
 | ---: | ----------------------------- | -------- | :-------------: | ------------------------------------------------------------------------------------------------- |
@@ -9,4 +9,4 @@ Name: **XYZ**
 |   04 | Intermediate Machine Learning | Kaggle   |  Dec 28, 2022   | [cert_2018331062_04.pdf](https://www.kaggle.com/learn/certification/sumon62/intermediate-machine-learning) |
 |   05 | Intro to Game AI and Reinforcement Learning | Kaggle   |  Dec 29, 2022   | [cert_2018331062_05.pdf](https://www.kaggle.com/learn/certification/sumon62/intro-to-game-ai-and-reinforcement-learning) |
 |   06 | Intro to Deep Learning | Kaggle   |  Dec 30, 2022   | [cert_2018331062_06.pdf](https://www.kaggle.com/learn/certification/sumon62/intro-to-deep-learning) |
-|   07 | Machine Learning Explainability | Kaggle   |  Dec 31, 2022   | [cert_2018331062_06.pdf](https://www.kaggle.com/learn/certification/sumon62/machine-learning-explainability) |
+|   07 | Machine Learning Explainability | Kaggle   |  Dec 31, 2022   | [cert_2018331062_07.pdf](https://www.kaggle.com/learn/certification/sumon62/machine-learning-explainability) |
